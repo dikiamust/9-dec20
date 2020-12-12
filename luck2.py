@@ -27,4 +27,6 @@ data_dari_server_gokar = {
     {'nama' : 'limo', 'jarak' : 50}
 ]
 }
+print('berikut adalah data gokar :')
 print(f" gokar ke-4 {data_dari_server_gokar ['gokar_list'] [3]}")
+print(f" gokar ke-5 {data_dari_server_gokar ['gokar_list'] [4]}")
